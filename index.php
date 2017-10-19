@@ -19,6 +19,8 @@ $results = mysqli_fetch_array($result);
 
 echo $results['first_Name'];
 ?>
+	
+	<button class='btn-primary'> Click me to view more about me </button>
 
 </body>
 </html>
